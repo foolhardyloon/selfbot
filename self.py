@@ -20,62 +20,62 @@ print u"login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 helpMessage ="""          
-               🍒🍁°Qυєєи тαкєѕнιє°🍁🍒
-🍒[Id]: 
-🍒[Mid]: 
-🍒[Me]: 
-🍒[Group Id]: 
-🍒[TL : "Text"]: 
-🍒[Share: on]: 
-🍒[Share: off]: 
-🍒[Rename :]: 
-🍒[Up clock]: 
-🍒[Name :]: 
-🍒[MIC]: ↪"mid"]: 
-🍒[Reject]: ↪" invite"]:
-🍒[Contact: on]: 
-🍒[Contact: off]: 
-🍒[Auto join: on]: 
-🍒[Auto join: off]: 
-🍒[Auto leave: on]: 
-🍒[Auto leave: off]: 
-🍒[Invite cancel :]: 
-🍒[Auto add: on]: 
-🍒[Auto add: off]: 
-🍒[Massage add: "text"]: 
-🍒[Add confirmasi]: 
-🍒[Comment: on]: 
-🍒[Comment: off]: 
-🍒[Comment set : "Text"]: 
-🍒[Comment change :"Text"]: 
-🍒[Comment check]: 
-🍒[Clock: on]: 
-🍒[Clock: off]: 
-🍒[Setting]: 
+               Isal
+[Id]: 
+[Mid]: 
+[Me]: 
+[Group Id]: 
+[TL : "Text"]: 
+[Share: on]: 
+[Share: off]: 
+[Rename :]: 
+[Up clock]: 
+[Name :]: 
+[MIC]: ↪"mid"]: 
+[Reject]: ↪" invite"]:
+[Contact: on]: 
+[Contact: off]: 
+[Auto join: on]: 
+[Auto join: off]: 
+[Auto leave: on]: 
+[Auto leave: off]: 
+[Invite cancel :]: 
+[Auto add: on]: 
+[Auto add: off]: 
+[Massage add: "text"]: 
+[Add confirmasi]: 
+[Comment: on]: 
+[Comment: off]: 
+[Comment set : "Text"]: 
+[Comment change :"Text"]: 
+[Comment check]: 
+[Clock: on]: 
+[Clock: off]: 
+[Setting]: 
 
-🍒🍒 Commands in the groups🍒🍒
+ Commands in the groups
 
-🍒[Responsename/kicker]:
-🍒[Ban]: 
-🍒[Unban]: 
-🍒[Banlist]: 
-🍒[Urlon]: 
-🍒[Urloff]: 
-🍒[Url]: 
-🍒[Ginfo]: 
-🍒[Invite: "mid"]: 
-🍒[Say: "Text"]:
-🍒[Kick " @tag]: 
-🍒[Cancel]: 
-🍒[Gn: "name"]: 
-🍒[Purge: " Name"]: 
-🍒[NK: "Name"]: 
-🍒[Dead]: 
-🍒[Kicker request author]
+[Responsename/kicker]:
+[Ban]: 
+[Unban]: 
+[Banlist]: 
+[Urlon]: 
+[Urloff]: 
+[Url]: 
+[Ginfo]: 
+[Invite: "mid"]: 
+[Say: "Text"]:
+[Kick " @tag]: 
+[Cancel]: 
+[Gn: "name"]: 
+[Purge: " Name"]: 
+[NK: "Name"]: 
+[Dead]: 
+[Kicker request author]
 
           
       
-          🍒Selfbot by Queen🍒"""          
+          Selfbot by Isal"""          
 
 
 mid = cl.getProfile().mid
